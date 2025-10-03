@@ -20,7 +20,7 @@ const Sidebar: React.FC<SidebarProps> = ({ activeSection, onSectionChange }) => 
     <div className="bg-gray-900 text-white w-64 min-h-screen flex flex-col">
       {/* Logo */}
       <div className="p-6 border-b border-gray-700">
-        <h1 className="text-xl font-bold">LeadCRM</h1>
+        <h1 className="text-xl font-bold">LeadCRM Pro</h1>
       </div>
 
       {/* Navigation */}
