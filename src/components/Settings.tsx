@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const Settings: React.FC = () => {
     const [settings, setSettings] = useState({
-        companyName: 'LeadCRM',
+        companyName: 'LeadCRM Pro',
         adminName: 'Anurag Mishra',
         adminEmail: 'anurag@leadcrm.com',
         timezone: 'Asia/Kolkata',
