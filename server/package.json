@@ -1,7 +1,7 @@
 {
   "name": "lead-management-backend",
   "version": "1.0.0",
-  "description": "Backend for Lead Management System",
+  "description": "RESTful API Backend for Lead Management CRM System",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
