@@ -107,7 +107,10 @@ cp server/.env.example server/.env
 npm run dev:full
 ```
 
-**Option 2 - Run Separately:**
+**Option 2 - Quick Start (Windows):**
+Double-click `start-fullstack.bat`
+
+**Option 3 - Run Separately:**
 ```bash
 # Terminal 1 - Backend (Port 5000)
 npm run dev:backend

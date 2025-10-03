@@ -12,13 +12,8 @@
     "start": "npm run build && cd server && npm start",
     "start:production": "npm run build && cd server && npm start",
     "install:all": "npm install && npm run install:backend",
-    "install:backend": "cd server && npm install",
-    "setup:github": "git init && git add . && git commit -m 'Initial commit: Complete Lead Management CRM System'",
-    "commit:frontend": "git add src/ && git commit -m 'Implemented frontend LeadForm and LeadList components'",
-    "commit:backend": "git add server/ && git commit -m 'Implemented backend API routes, controllers, and MongoDB integration'",
-    "commit:integration": "git add . && git commit -m 'Connected frontend with backend API for full-stack functionality'",
-    "commit:crm": "git add . && git commit -m 'Enhanced CRM interface with professional design and advanced features'",
-    "commit:settings": "git add . && git commit -m 'Implemented comprehensive settings management system'"
+    "install:backend": "cd server && npm install"
+
   },
   "dependencies": {
     "@hookform/resolvers": "^3.0.0",
